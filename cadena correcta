@@ -1,0 +1,11 @@
+delete from variable where a = 1234
+delete from table where column = value
+delete from table
+delete from table where column = 5678
+
+
+Inconrrecta
+delete from where
+delete from table
+delete where"
+delete
